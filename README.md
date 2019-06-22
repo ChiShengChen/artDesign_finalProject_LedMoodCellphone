@@ -24,4 +24,4 @@ On the other hand, when someone put down their cellphone, which let the z-axis v
 ## Wring
 ![image](https://github.com/ChiShengChen/artDesign_finalProject_LedMoodCellphone/blob/master/F1OOYJNIR413HTY.jpg)
 <br>
-(The photo is copy from https://reurl.cc/yN6XM ）
+(The photo is cop from https://reurl.cc/yN6XM ）
