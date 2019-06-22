@@ -1,7 +1,7 @@
 # artDesign_finalProject_LedMoodCellphone
 
 
-This the final project for class Contemporary Art and Cross-Disciplinary Design in NCTU.
+This the final project for class Contemporary Art and Cross-Disciplinary Design in NCTU in 2019 spring.
 
 ## Concept
 This work we try to expound technology indifference with the leds and cellphone control. In other words, I wrote a android app to get the z-axis data from gyroscope sensor in the cellphone, when someone pick up the phone, which let the z-axis velocity > 1, the phone will sent a string "rain" through bluetooth to the device and let it blink the blue light. 
