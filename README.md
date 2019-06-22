@@ -15,8 +15,12 @@ On the other hand, when someone put down their cellphone, which let the z-axis v
 ## Circuit bom list
 - Any Arduino board * 1 (I used UNO in this project).
 - HC-05 bluetooth board * 1.
+- 1K resistor * 1.
+- 2K resistor * 1.
+- ws2812b leds depends on your need.
 - Breadbord * 1.
 - Some wire for connecting the components.
 
 ## Wring
-
+![image](https://github.com/ChiShengChen/artDesign_finalProject_LedMoodCellphone/blob/master/F1OOYJNIR413HTY.jpg)
+(The photo is copy from https://reurl.cc/yN6XM ）
