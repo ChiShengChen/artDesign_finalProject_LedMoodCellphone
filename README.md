@@ -12,3 +12,11 @@ This work we try to expound technology indifference with the leds and cellphone 
 On the other hand, when someone put down their cellphone, which let the z-axis velocity < 1, the phone will sent a string "sun" through bluetooth to the device and let it blink the red light. 
 ![image](https://github.com/ChiShengChen/artDesign_finalProject_LedMoodCellphone/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-22%20%E4%B8%8B%E5%8D%886.05.57.png)
 
+## Circuit bom list
+- Any Arduino board * 1 (I used UNO in this project).
+- HC-05 bluetooth board * 1.
+- Breadbord * 1.
+- Some wire for connecting the components.
+
+## Wring
+
