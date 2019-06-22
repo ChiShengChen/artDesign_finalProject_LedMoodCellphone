@@ -17,11 +17,15 @@ On the other hand, when someone put down their cellphone, which let the z-axis v
 - HC-05 bluetooth board * 1.
 - 1K resistor * 1.
 - 2K resistor * 1.
-- ws2812b leds depends on your need.
+- ws2812b 5050 RGB leds depends on your need.
 - Breadbord * 1.
 - Some wire for connecting the components.
 
 ## Wring
+### Bluetooth
 ![image](https://github.com/ChiShengChen/artDesign_finalProject_LedMoodCellphone/blob/master/F1OOYJNIR413HTY.jpg)
 <br>
 (The photo is copied from https://reurl.cc/yN6XM ）
+
+### Ws2812b leds
+The ws2812b control chip only has a data input wire, so the only thing you should do is connecting the data wire into any digital output pin in Arduino board (in this example is D10) and enjoy it!
